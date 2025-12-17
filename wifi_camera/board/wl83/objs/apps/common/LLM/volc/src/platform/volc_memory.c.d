@@ -1,0 +1,29 @@
+objs/apps/common/LLM/volc/src/platform/volc_memory.c.o: \
+  ../../../../apps/common/LLM/volc/src/platform/volc_memory.c \
+  ../../../../apps/common/LLM/volc/inc\volc_memory.h \
+  ../../../../include_lib/c++/include\stdint.h \
+  ../../../../include_lib/c++/include\__config \
+  ../../../../include_lib/c++/include\stddef.h \
+  ../../../../include_lib/driver/cpu/wl83\asm/cpu.h \
+  ../../../../include_lib/driver/cpu/wl83/asm/WL83.h \
+  ../../../../include_lib/driver/cpu/wl83/asm/csfr.h \
+  ../../../../include_lib/driver/cpu/wl83/asm/eva_sfr.h \
+  ../../../../include_lib/driver/cpu/wl83/asm/mipi_sfr.h \
+  ../../../../include_lib/driver/cpu/wl83/asm/wl83_nvdla.h \
+  ../../../../include_lib/driver/cpu/wl83/asm/io_omap.h \
+  ../../../../include_lib/driver/cpu/wl83/asm/io_imap.h \
+  ../../../../include_lib/driver/cpu/wl83/asm/husb_sfr.h \
+  ../../../../include_lib/driver/cpu/wl83\asm/irq.h \
+  ../../../../include_lib/driver/cpu/wl83\asm/hwi.h \
+  ../../../../include_lib/system\generic/typedef.h \
+  ../../../../include_lib/system\generic/errno-base.h \
+  ../../../../include_lib/c++/include\string.h \
+  ../../../../include_lib/newlib/include\strings.h \
+  ../../../../include_lib/newlib/include\sys/types.h \
+  ../../../../include_lib/newlib/include\machine/types.h \
+  ../../../../include_lib\system/malloc.h \
+  ../../../../include_lib/system\generic/printf.h \
+  ../../../../include_lib/system\generic/dlog.h \
+  ../../../../include_lib\system/generic/log.h \
+  ../../../../include_lib/c++/include\stdlib.h \
+  ../../../../apps/common/LLM/volc/inc\volc_type.h

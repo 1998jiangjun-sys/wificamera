@@ -1,0 +1,24 @@
+objs/apps/common/LLM/volc/access_token.c.o: \
+  ../../../../apps/common/LLM/volc/access_token.c \
+  ../../../../include_lib/c++/include\stdlib.h \
+  ../../../../include_lib/c++/include\__config \
+  ../../../../include_lib/c++/include\string.h \
+  ../../../../include_lib/newlib/include\time.h \
+  ../../../../include_lib/c++/include\stddef.h \
+  ../../../../include_lib/newlib/include\machine/time.h \
+  ../../../../include_lib/newlib/include\sys/types.h \
+  ../../../../include_lib/newlib/include\sys/_stdint.h \
+  ../../../../include_lib/newlib/include\machine/types.h \
+  ../../../../include_lib/newlib/include\sys/timespec.h \
+  ../../../../include_lib/newlib/include\sys/_timespec.h \
+  ../../../../include_lib/net/mbedtls_3_4_0\mbedtls/md.h \
+  ../../../../include_lib/net/mbedtls_3_4_0\mbedtls/private_access.h \
+  ../../../../include_lib/net/mbedtls_3_4_0\mbedtls/build_info.h \
+  ../../../../include_lib/net/mbedtls_3_4_0\mbedtls/mbedtls_config.h \
+  ../../../../include_lib/net/mbedtls_3_4_0\mbedtls/config_psa.h \
+  ../../../../include_lib/net/mbedtls_3_4_0\mbedtls/check_config.h \
+  ../../../../include_lib/c++/include\limits.h \
+  ../../../../include_lib/c++/include\stdint.h \
+  ../../../../include_lib/net/mbedtls_3_4_0\mbedtls/platform_util.h \
+  ../../../../include_lib/net/mbedtls_3_4_0\mbedtls/platform_time.h \
+  ../../../../include_lib/net/mbedtls_3_4_0\mbedtls/base64.h

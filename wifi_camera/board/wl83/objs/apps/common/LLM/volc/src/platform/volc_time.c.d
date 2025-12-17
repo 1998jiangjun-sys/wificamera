@@ -1,0 +1,25 @@
+objs/apps/common/LLM/volc/src/platform/volc_time.c.o: \
+  ../../../../apps/common/LLM/volc/src/platform/volc_time.c \
+  ../../../../apps/common/LLM/volc/inc\volc_time.h \
+  ../../../../include_lib/c++/include\stdint.h \
+  ../../../../include_lib/c++/include\__config \
+  ../../../../include_lib/newlib/include\time.h \
+  ../../../../include_lib/newlib/include/_ansi.h \
+  ../../../../include_lib/newlib/include\newlib.h \
+  ../../../../include_lib/newlib/include\sys/config.h \
+  ../../../../include_lib/newlib/include\machine/ieeefp.h \
+  ../../../../include_lib/newlib/include\sys/reent.h \
+  ../../../../include_lib/c++/include\stddef.h \
+  ../../../../include_lib/newlib/include\sys/_types.h \
+  ../../../../include_lib/newlib/include\machine/_types.h \
+  ../../../../include_lib/newlib/include\sys/lock.h \
+  ../../../../include_lib/newlib/include\machine/time.h \
+  ../../../../include_lib/newlib/include\sys/types.h \
+  ../../../../include_lib/newlib/include\sys/cdefs.h \
+  ../../../../include_lib/newlib/include\machine/types.h \
+  ../../../../include_lib/newlib/include\sys/timespec.h \
+  ../../../../include_lib/newlib/include\sys/_timespec.h \
+  ../../../../include_lib/newlib/include\sys/time.h \
+  ../../../../include_lib/newlib/include\sys/_timeval.h \
+  ../../../../apps/common/LLM/volc/inc\volc_errno.h \
+  ../../../../apps/common/LLM/volc/inc\volc_type.h

@@ -1,0 +1,30 @@
+objs/apps/wifi_camera/mode/bt/le_audio/le_audio_buffer.c.o: \
+  ../../../../apps/wifi_camera/mode/bt/le_audio/le_audio_buffer.c \
+  ../../../../apps/wifi_camera/mode/bt/le_audio/include\le_audio_buffer.h \
+  ../../../../include_lib/system\generic/typedef.h \
+  ../../../../include_lib/driver/cpu/wl83\asm/cpu.h \
+  ../../../../include_lib/driver/cpu/wl83/asm/WL83.h \
+  ../../../../include_lib/driver/cpu/wl83/asm/csfr.h \
+  ../../../../include_lib/driver/cpu/wl83/asm/eva_sfr.h \
+  ../../../../include_lib/driver/cpu/wl83/asm/mipi_sfr.h \
+  ../../../../include_lib/driver/cpu/wl83/asm/wl83_nvdla.h \
+  ../../../../include_lib/driver/cpu/wl83/asm/io_omap.h \
+  ../../../../include_lib/driver/cpu/wl83/asm/io_imap.h \
+  ../../../../include_lib/driver/cpu/wl83/asm/husb_sfr.h \
+  ../../../../include_lib/driver/cpu/wl83\asm/irq.h \
+  ../../../../include_lib/driver/cpu/wl83\asm/hwi.h \
+  ../../../../include_lib/system\generic/printf.h \
+  ../../../../include_lib/system\generic/dlog.h \
+  ../../../../include_lib\system/generic/log.h \
+  ../../../../include_lib/system\generic/errno-base.h \
+  ../../../../include_lib/c++/include\string.h \
+  ../../../../include_lib/c++/include\__config \
+  ../../../../include_lib/newlib/include\strings.h \
+  ../../../../include_lib/newlib/include\sys/types.h \
+  ../../../../include_lib/newlib/include\sys/_stdint.h \
+  ../../../../include_lib/c++/include\stddef.h \
+  ../../../../include_lib/newlib/include\machine/types.h \
+  ../../../../include_lib\system/malloc.h \
+  ../../../../audio\le_audio/le_audio_stream.h \
+  ../../../../include_lib/system\generic/list.h \
+  ../../../../include_lib\system/spinlock.h
